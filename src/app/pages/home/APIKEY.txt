@@ -1,0 +1,17 @@
+APIKEY 
+AIzaSyDEAcyRuHftRW4MWMaRUD_-BJR5OfEnubY
+
+uploads
+UUolfxbsMdfxj8TxBK5Dpdiw
+
+https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&key=AIzaSyDEAcyRuHftRW4MWMaRUD_-BJR5OfEnubY&playlistId=UUolfxbsMdfxj8TxBK5Dpdiw&maxResults=10
+
+part snippet
+
+key AIzaSyDEAcyRuHftRW4MWMaRUD_-BJR5OfEnubY
+
+playlistId UUolfxbsMdfxj8TxBK5Dpdiw
+
+pageToken CAoQAA
+
+maxResults 10
